@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EDITTEXT</string>
+    <string name="first">username</string>
+    <string name="second">password</string>
+    <string name="button">login</string>
+    <string name="button2">logout</string>
+
+</resources>
